@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="game_background">#FF444444</color>
+    <color name="score_text_color">#942408F4</color>
+    <color name="level_text_color">#ff1d314a</color>
+</resources>

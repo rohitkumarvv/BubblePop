@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chaos</string>
+    <string name="insert_friction_ball">Insert Friction</string>
+    <string name="single_speed_mode_string">Single Speed Mode</string>
+    <string name="random_speed_mode_string">Random Speed Mode</string>
+    <string name="num_balls_popped">numBallsPopped</string>
+    <string name="quit_string">Quit</string>
+    <string name="score_view_str_1">Total Balls popped</string>
+    <string name="score_view_str_2">Total Balls added</string>
+    <string name="score_view_str_3">Total Time played</string>
+    <string name="score_view_str_4">Total Score</string>
+    <string name="admob_unit">ca-app-pub-3947952501355265/2347645265</string>
+</resources>

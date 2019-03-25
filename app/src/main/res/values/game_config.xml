@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_increase">120</integer>
+    <integer name="min_increase">105</integer>
+    <integer name="intial_balls_count">8</integer>
+    <integer name="max_balls_count">25</integer>
+    <integer name="max_life_frictionBall">10000</integer>
+    <integer name="bonus_for_allclear">20000</integer>
+</resources>
